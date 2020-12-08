@@ -11,5 +11,5 @@ Python files containing functions used for modeling and to generate images are l
 ### **`data`** 
 Data sets used in this project as .csv files.
 
-### **`data`** 
+### **`notebooks`** 
 Jupyter .ipynb notebooks containing code to produce the images and results shown on the website. Uses functions defined in the Python files contained in the code folder. Each page of the website has its own notebook.
