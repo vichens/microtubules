@@ -1,7 +1,7 @@
 # Microtubule Catastrophe
 
 ## Overview
-This repository contains the code and data used to construct our website, located [here](google.com).
+This repository contains the code and data used to construct our website, located [here](https://vichens.github.io/mc_website/).
 
 ## Layout
 
